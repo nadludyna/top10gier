@@ -2,7 +2,7 @@
 
 A university project for the **Web Technologies** course (Technologie Webowe).
 
-👉 **[69inoi69.github.io/top10gier](https://69inoi69.github.io/top10gier/)**
+👉 **[69inoi69.github.io/top10gier](https://69inoi69.github.io/top10gier/](https://nadludyna.github.io/top10gier/))**
 
 My personal ranking of the ten best games ever. The code was largely written by AI, but the list and the reviews are 100% my own opinion, and I'll defend it to the end.
 
