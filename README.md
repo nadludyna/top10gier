@@ -63,6 +63,6 @@ A pure artifact of the vibe-coding era.
 
 ## Author
 
-**John Pork** — [Steam](https://steamcommunity.com/id/jhn_prk67/)
+**nadludyna** — [Steam](https://steamcommunity.com/id/nadludyna/)
 
 © 2026 Course project. Generated with vibes, merged with heart.
