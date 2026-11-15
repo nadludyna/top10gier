@@ -93,7 +93,7 @@ const GAMES = {
         pros: ["Scenariusz i dialogi", "Swoboda działania", "Soundtrack (Radio New Vegas)"],
         cons: ["Crash to Desktop co 15 minut", "Wygląda jak ziemniak"],
         rating: "BLUE MOON...",
-        steam: "https://store.steampowered.com/app/22380/Fallout_New_Vegas/"
+        steam: "https://store.steampowered.com/app/22490/Fallout_New_Vegas/"
     },
     hl1: {
         title: "HALF-LIFE",
