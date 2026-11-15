@@ -1,6 +1,6 @@
 /**
  * PROJEKT ZALICZENIOWY - TECHNOLOGIE WEBOWE
- * Autor: John Pork
+ * Autor: nadludyna
  * Temat: Hall of Fame - Biblioteka Gier
  */
 
